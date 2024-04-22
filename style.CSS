@@ -1,0 +1,80 @@
+* {
+	letter-spacing: 0.2px;
+	line-height: 1.6;
+	word-break: keep-all;
+}
+
+article {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+}
+
+ol {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+}
+
+li {
+	margin: 20px;
+}
+
+
+header {
+	border: inset 25px darkkhaki;
+	margin-bottom: 10px;
+}
+
+nav, section {
+	border-radius: 20px;
+	padding: 10px;
+	margin-bottom: 10px;
+	background: linear-gradient(180deg, rgb(243, 156, 18, 1.0) 10%, rgb(241, 196, 15, 1.0));
+}
+
+section {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+h3 {
+	border-radius: 20px;
+	padding: 10px;
+	margin-bottom: 55px;
+	background: linear-gradient(180deg, rgb(243, 156, 18, 1.0) 10%, rgb(241, 196, 15, 1.0))
+}
+
+ol {
+	list-style: none;
+}
+
+img {
+	padding: 20px;
+}
+
+P {
+	border: 4px dotted rgb(110, 44, 0, 1.0);
+	width: 500px;
+}
+
+a {
+	color: rgb(110, 44, 0, 1.0);
+	text-decoration-line: none;
+}
+
+.dmdmdm {
+	width: 40vw;
+	height: 17vw;
+	font-size: 10vw;
+	text-align: center;
+}
+
+.copy {
+	text-align: center;
+}
