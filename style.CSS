@@ -84,7 +84,7 @@ img {
 	height: 350px;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 900px) {
 	img{
 		width: 400px;
 		height: 400px;
