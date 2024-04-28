@@ -84,13 +84,13 @@ img {
 	height: 350px;
 }
 
-@media screen and (max-width: 100px){
+@media screen and (max-width: 500px) {
 	img{
-		width: 100px;
-		height: 100px;
+		width: 400px;
+		height: 400px;
 	}
 
 	P {
 	border: 4px dotted rgb(110, 44, 0, 1.0);
-	width: 200px;
+	width: 430px;
 }
