@@ -80,7 +80,7 @@ a {
 }
 
 @media screen and (max-width: 100px){
-	section, img{
-		width: 40vw; height: 17vw;
+	img{
+		width: 100vw; height: 100vw;
 	}
 }
