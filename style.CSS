@@ -79,7 +79,7 @@ a {
 	text-align: center;
 }
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 100px){
 	section, img{
 		width: 40vw; height: 17vw;
 	}
