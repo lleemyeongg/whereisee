@@ -85,8 +85,8 @@ img {
 
 @media screen and (max-width: 900px) {
 	img{
-		width: 90vw;
-		height: 90vw;
+		width: 100vw;
+		height: 100vw;
 	}
 
 	P {
