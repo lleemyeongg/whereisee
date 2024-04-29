@@ -17,6 +17,7 @@ ol {
 	justify-content: space-evenly;
 	flex-wrap: wrap;
 	padding-left: 0;
+	list-style: none;
 }
 
 li {
@@ -51,9 +52,6 @@ h3 {
 	background: linear-gradient(180deg, rgb(243, 156, 18, 1.0) 10%, rgb(241, 196, 15, 1.0))
 }
 
-ol {
-	list-style: none;
-}
 
 img {
 	padding: 20px;
