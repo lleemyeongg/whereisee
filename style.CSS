@@ -16,7 +16,7 @@ ol {
 	flex-direction: row;
 	justify-content: space-evenly;
 	flex-wrap: wrap;
-	padding-left: 0px;
+	padding-left: 0;
 	list-style: none;
 }
 
@@ -91,5 +91,5 @@ img {
 
 	P {
 	border: 4px dotted rgb(110, 44, 0, 1.0);
-	width: 40vw;
+	width: 50vw;
 }
