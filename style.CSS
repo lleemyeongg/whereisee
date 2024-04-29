@@ -16,7 +16,7 @@ ol {
 	flex-direction: row;
 	justify-content: space-evenly;
 	flex-wrap: wrap;
-	padding-left: 0;
+	padding-left: 0px;
 	list-style: none;
 }
 
@@ -85,8 +85,8 @@ img {
 
 @media screen and (max-width: 900px) {
 	img{
-		width: 70vw;
-		height: 70vw;
+		width: 40vw;
+		height: 40vw;
 	}
 
 	P {
